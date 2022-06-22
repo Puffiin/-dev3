@@ -1,8 +1,4 @@
-# Gaziantep Midye Baklavası Tarifi
+# Homework CSS 
 
-## Hakan hocamın verdiği ödev.
-
-### İçerik
-
-* Henüz css bilmediğim için iki adet html dosyasından oluşturdum ve style css düzenlemelerini yapamadım.
-
+* Bu projede Frontend ödevi Google! 1998 yaptım.
+* 1 css ve 1 html dosyası içerir
